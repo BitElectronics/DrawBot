@@ -16,5 +16,4 @@ It uses extension for mBlock project : http://mblock.makeblock.com/mBlock_win_V3
 
 След като инсталирате средата mBlock от посочения линк, трябва да се инсталира разширението за работа с нашия робот - "Моливко". То се намира на официялния сайт на mBlock. Инсталирането се извършва от  Extencions -> Menage Extencions и в таба Available  в полето Search за записва Моливко (на бълг. език) и когато се появи информацията за разщирението на екрана, се изпълнява само Download. Инсталираното разширение Моливко може да видите налично в таба Installed.
 
-Информацията за следващите стъпки е в инструкцията - [instruction.pdf](https://github.com/BitElectronics/DrawBot/blob/master/inctriction_Molivko.pdf)
-Следвайте стъпките от точка 4. 
+Подробна инструкция за работа с Моливко - [instruction_Molivko.pdf](https://github.com/BitElectronics/DrawBot/blob/master/inctriction_Molivko.pdf)
