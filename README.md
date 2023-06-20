@@ -1,7 +1,7 @@
 # DrawBot  :pencil2:
 
 DrawBot is an autonomous car with pencil. When it moves, makes drawings. It is for children education with scratch programming.
-It uses extension for mBlock project: [https://dl.makeblock.com/mBlock_win_V3.4.12.exe ](https://dl.makeblock.com/mblock3/mBlock_win_V3.4.12.exe)
+It uses extension for mBlock project: [https://dl.makeblock.com/mblock3/mBlock_win_V3.4.12.exe]
 
 **DrawBot (Моливко)**  :pencil2: e рисуващ робот. Предназначен е за деца. За неговото програмиране не се изисква знанието на език за прорамиране, защото може да се програмира блоково със scratch. Роботът се движи със стъпкови мотори, което позволява да изминава точно определено разстояние, да прави завои на определени градуси, и с поставения в него маркер, да рисува фигури. Също така, той разполага със серво механизъм, с който може да повдига и спуска макера.  Към него могат да се добавят и други инструменти задвижвани от серво механизми. Разработена е щипка с която робота може да захваща и премества предмети.
 
