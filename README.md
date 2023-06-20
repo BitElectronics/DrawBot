@@ -1,7 +1,7 @@
 # DrawBot  :pencil2:
 
 DrawBot is an autonomous car with pencil. When it moves, makes drawings. It is for children education with scratch programming.
-It uses extension for mBlock project: https://dl.makeblock.com/mBlock_win_V3.4.12.exe 
+It uses extension for mBlock project: [https://dl.makeblock.com/mBlock_win_V3.4.12.exe ](https://dl.makeblock.com/mblock3/mBlock_win_V3.4.12.exe)
 
 **DrawBot (Моливко)**  :pencil2: e рисуващ робот. Предназначен е за деца. За неговото програмиране не се изисква знанието на език за прорамиране, защото може да се програмира блоково със scratch. Роботът се движи със стъпкови мотори, което позволява да изминава точно определено разстояние, да прави завои на определени градуси, и с поставения в него маркер, да рисува фигури. Също така, той разполага със серво механизъм, с който може да повдига и спуска макера.  Към него могат да се добавят и други инструменти задвижвани от серво механизми. Разработена е щипка с която робота може да захваща и премества предмети.
 
@@ -12,7 +12,7 @@ It uses extension for mBlock project: https://dl.makeblock.com/mBlock_win_V3.4.1
 От бутона "Clone or Download" изберете "Download zip". Така ще се свали в архив, съдържанието на това репозитори.
 Това включва инструкция за инсталация, настройка и свързване на средата mBlock и папка с применрни програми.
 
-За програмиране се използва средата  mBlock: https://dl.makeblock.com/mBlock_win_V3.4.12.exe
+За програмиране се използва средата  mBlock: [https://dl.makeblock.com/mBlock_win_V3.4.12.exe](https://dl.makeblock.com/mblock3/mBlock_win_V3.4.12.exe)
 
 След като инсталирате средата mBlock от посочения линк, трябва да се инсталира разширението за работа с нашия робот - "Моливко". То се намира на официялния сайт на mBlock. Инсталирането се извършва от  Extencions -> Menage Extencions и в таба Available  в полето Search за записва Моливко (на бълг. език) и когато се появи информацията за разщирението на екрана, се изпълнява само Download. Инсталираното разширение Моливко може да видите налично в таба Installed.
 
