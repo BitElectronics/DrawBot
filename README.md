@@ -12,7 +12,7 @@ It uses extension for mBlock project:https://drive.google.com/file/d/1Rxl6-GP0Ms
 От бутона "Clone or Download" изберете "Download zip". Така ще се свали в архив, съдържанието на това репозитори.
 Това включва инструкция за инсталация, настройка и свързване на средата mBlock и папка с применрни програми.
 
-За програмиране се използва средата  mBlock: [https://dl.makeblock.com/mBlock_win_V3.4.12.exe](https://dl.makeblock.com/mblock3/mBlock_win_V3.4.12.exe)
+За програмиране се използва средата  mBlock: [https://dl.makeblock.com/mBlock_win_V3.4.12.exe](https://drive.google.com/file/d/1Rxl6-GP0Ms2KHEtJorg20IMcwv91H5yu/view?usp=sharing))
 
 След като инсталирате средата mBlock от посочения линк, трябва да се инсталира разширението за работа с нашия робот - "Моливко". То се намира на официялния сайт на mBlock. Инсталирането се извършва от  Extencions -> Menage Extencions и в таба Available  в полето Search за записва Моливко (на бълг. език) и когато се появи информацията за разщирението на екрана, се изпълнява само Download. Инсталираното разширение Моливко може да видите налично в таба Installed.
 
